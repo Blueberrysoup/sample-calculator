@@ -1,0 +1,2840 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building sample-calculator 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.3:resources (default-resources) @ sample-calculator ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/carina/workspace/project-test/sample-calculator/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.0.2:compile (default-compile) @ sample-calculator ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.3:testResources (default-testResources) @ sample-calculator ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/carina/workspace/project-test/sample-calculator/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.0.2:testCompile (default-testCompile) @ sample-calculator ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.10:test (default-test) @ sample-calculator ---
+[INFO] Surefire report directory: /home/carina/workspace/project-test/sample-calculator/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running CalculatorTest
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.83 and 4.53
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.89 and 7.37
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.72 and 5.16
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.03 and 9.26
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.98 and 3.77
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.4 and 9.11
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.37 and 8.6
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.05 and 4.62
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.8 and 2.87
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.61 and 7.52
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.33 and 8.95
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 8.43 and 7.55
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.18 and 3.41
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 0.61 and 7.69
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.0 and 7.9
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.14 and 6.82
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 8.45 and 4.88
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 0.54 and 4.31
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.1 and 1.52
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.75 and 3.99
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.45 and 0.24
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.63 and 4.19
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.62 and 9.04
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.4 and 3.89
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.29 and 0.46
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.68 and 4.92
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.04 and 3.6
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.49 and 4.37
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.89 and 9.6
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 8.15 and 1.48
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 8.08 and 7.53
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.72 and 8.45
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.26 and 4.0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.78 and 5.3
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.28 and 7.06
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.39 and 4.48
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.4 and 1.97
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.14 and 2.6
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.46 and 4.18
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.85 and 2.54
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.89 and 2.77
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.92 and 1.53
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.48 and 5.58
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.96 and 7.69
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.15 and 6.17
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.19 and 9.85
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.4 and 1.22
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.24 and 3.36
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.27 and 6.31
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.77 and 7.79
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.33 and 7.57
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.89 and 0.31
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.44 and 6.2
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 8.76 and 2.85
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.11 and 3.17
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.12 and 9.57
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.0 and 1.75
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.26 and 5.94
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.23 and 6.27
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.1 and 9.88
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 0.96 and 6.36
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.58 and 0.89
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.96 and 7.48
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.91 and 2.79
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.08 and 0.15
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.81 and 1.66
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.18 and 2.09
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.73 and 1.23
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.46 and 9.95
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 0.04 and 4.2
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.87 and 9.86
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.9 and 9.5
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.6 and 8.81
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.17 and 2.28
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 0.8 and 2.21
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.8 and 5.49
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 8.87 and 6.49
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.62 and 9.43
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.26 and 9.34
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.28 and 8.32
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 0.49 and 4.52
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.74 and 1.1
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.51 and 2.38
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 8.72 and 6.87
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.8 and 2.3
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 0.39 and 4.22
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.69 and 8.06
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.32 and 7.62
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.07 and 2.83
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.42 and 3.4
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.88 and 5.93
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.61 and 2.29
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.47 and 9.63
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.49 and 5.8
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 8.16 and 0.76
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.0 and 8.46
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.58 and 8.28
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.03 and 8.99
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.15 and 5.03
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.3 and 8.94
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.03 and 9.27
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.71 and 8.79
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 8.11 and 9.1
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.84 and 7.91
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.58 and 0.6
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.27 and 6.44
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.93 and 9.18
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.3 and 4.61
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.33 and 1.62
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.07 and 7.06
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.07 and 5.53
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.99 and 7.71
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 8.29 and 1.89
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 0.2 and 3.81
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.99 and 5.93
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 0.36 and 5.93
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.08 and 1.21
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 8.47 and 4.63
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 0.89 and 2.07
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 8.71 and 3.28
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.87 and 9.8
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.26 and 1.04
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.35 and 8.79
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.95 and 9.39
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.45 and 9.75
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.34 and 0.8
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 0.8 and 8.7
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.07 and 8.12
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.53 and 1.65
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.85 and 8.98
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.37 and 7.39
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.51 and 0.29
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.03 and 2.61
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.38 and 4.26
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 0.96 and 6.49
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.92 and 8.46
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.64 and 4.53
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.42 and 9.91
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.14 and 4.89
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.45 and 4.53
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.26 and 3.8
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.25 and 1.37
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.79 and 0.5
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.21 and 3.39
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.72 and 6.41
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.15 and 4.79
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 0.97 and 7.6
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.95 and 8.16
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 8.27 and 4.45
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.44 and 3.54
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.95 and 7.4
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.57 and 5.26
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.34 and 3.2
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.07 and 2.0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.04 and 1.78
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.59 and 9.92
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.06 and 9.69
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.05 and 8.66
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.91 and 2.75
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.17 and 5.42
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 8.93 and 6.8
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 8.83 and 2.77
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.24 and 2.74
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.72 and 1.52
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 0.23 and 9.09
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.65 and 1.69
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.28 and 3.11
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.87 and 0.42
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.54 and 9.11
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.98 and 8.13
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.17 and 1.14
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 8.64 and 0.84
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.97 and 5.55
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.22 and 9.34
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.72 and 7.78
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.68 and 3.4
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 0.45 and 7.0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.69 and 2.56
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.27 and 1.48
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.54 and 2.94
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 7.61 and 7.61
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.05 and 3.79
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.59 and 5.34
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.51 and 5.97
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.76 and 3.34
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 9.18 and 9.12
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.2 and 7.88
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.33 and 3.93
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 6.43 and 0.34
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.78 and 0.63
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.23 and 9.84
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.16 and 5.36
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.86 and 8.9
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.55 and 1.31
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 5.23 and 2.03
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 2.1 and 2.72
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.06 and 9.62
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 4.37 and 5.78
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 1.85 and 1.84
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallPositive
+INFO: Testing the add method with: 3.66 and 1.98
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.23 and -4.45
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.57 and -2.17
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -6.19 and -2.41
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -6.7 and -8.42
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -9.75 and -6.41
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -6.5 and -4.76
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.1 and -5.6
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.01 and -4.49
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.08 and -7.97
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.78 and -9.9
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.12 and -8.18
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -3.84 and -7.11
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.79 and -4.69
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -6.03 and -4.89
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.44 and -5.84
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.17 and -3.58
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.82 and -7.92
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.59 and -1.15
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -9.77 and -8.89
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.27 and -5.47
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.22 and -8.06
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.51 and -6.1
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.36 and -5.41
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.96 and -3.92
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.57 and -4.4
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.78 and -4.42
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.44 and -8.52
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.78 and -8.47
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.62 and -4.8
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.19 and -5.1
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -9.79 and -7.49
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.04 and -2.03
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -3.06 and -1.06
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.28 and -3.2
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.75 and -4.5
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.93 and -7.31
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.17 and -8.36
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.77 and -7.75
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -6.3 and -1.83
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.79 and -2.23
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.06 and -9.45
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.61 and -9.85
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.71 and -6.47
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.79 and -4.69
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.26 and -7.02
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.53 and -7.21
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -9.26 and -1.75
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.85 and -9.28
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.46 and -0.12
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.83 and -4.31
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -6.46 and -7.99
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.47 and -1.14
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.08 and -2.74
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -6.45 and -9.46
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -3.42 and -6.83
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.89 and -4.72
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.62 and -5.58
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -3.11 and -2.73
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.73 and -6.27
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -9.48 and -7.53
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -3.16 and -4.28
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -9.42 and -1.28
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -9.51 and -5.96
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.78 and -1.73
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.3 and -9.83
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.88 and -0.93
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.97 and -4.89
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.92 and -8.63
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.79 and -9.63
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.56 and -5.5
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -3.15 and -5.96
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.06 and -3.77
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.97 and -9.86
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.5 and -7.8
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.2 and -4.56
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -3.42 and -2.94
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.53 and -2.66
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.52 and -8.75
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -3.88 and -0.73
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.68 and -1.7
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -9.57 and -3.75
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.52 and -3.56
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.54 and -6.88
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.05 and -3.54
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.49 and -9.0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.96 and -6.47
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -9.42 and -5.84
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.16 and -4.65
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -6.7 and -0.59
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.58 and -7.89
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.43 and -6.07
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.85 and -5.09
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.68 and -6.23
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.05 and -0.45
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.17 and -3.73
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -9.96 and -9.47
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.34 and -7.15
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.72 and -2.96
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.57 and -3.75
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.38 and -2.01
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.28 and -3.29
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.97 and -3.58
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.77 and -4.28
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.27 and -3.84
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.88 and -6.35
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.44 and -6.32
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.54 and -1.74
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.93 and -2.74
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.79 and -4.2
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.65 and -7.14
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.03 and -6.01
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.02 and -7.94
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.73 and -2.37
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.23 and -8.73
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.1 and -7.8
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.67 and -5.2
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.22 and -0.95
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.39 and -5.37
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.92 and -2.75
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.3 and -9.88
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -3.24 and -7.68
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.66 and -1.78
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -3.22 and -9.45
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -9.52 and -8.27
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -9.17 and -0.72
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.69 and -2.48
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.82 and -0.78
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.04 and -9.64
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.23 and -6.67
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.09 and -0.49
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.77 and -0.78
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -6.93 and -4.53
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.84 and -2.37
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.08 and -7.01
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.92 and -1.52
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.08 and -6.7
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.81 and -1.16
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.94 and -5.74
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.94 and -7.19
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.4 and -9.07
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -3.06 and -7.08
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.06 and -8.59
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -9.89 and -4.72
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.44 and -6.32
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.71 and -2.6
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -3.51 and -1.54
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -9.3 and -3.29
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.91 and -9.39
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.17 and -8.41
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.05 and -2.08
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.67 and -7.13
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.05 and -9.42
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.1 and -6.03
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.37 and -2.32
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.64 and -8.68
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.06 and -1.55
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.92 and -6.46
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.5 and -4.07
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.5 and -1.75
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.69 and -1.08
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -9.75 and -0.84
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.34 and -4.94
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.43 and -6.75
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -6.13 and -7.32
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.29 and -1.38
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.99 and -6.81
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.1 and -2.48
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -3.33 and -2.72
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -6.74 and -3.27
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.04 and -0.71
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.99 and -1.59
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.91 and -7.56
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -3.21 and -1.14
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -6.43 and -4.48
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -6.12 and -9.38
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.73 and -2.87
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.57 and -5.61
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.98 and -2.21
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.42 and -7.78
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -9.36 and -6.72
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -6.34 and -8.5
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.34 and -6.86
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.69 and -9.36
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.4 and -1.63
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.67 and -7.27
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.28 and -0.04
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -6.11 and -8.24
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.07 and -3.38
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.66 and -2.28
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -6.21 and -5.38
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -2.28 and -7.46
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -7.84 and -3.66
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.45 and -2.48
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.87 and -4.44
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -4.03 and -5.12
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -0.61 and -2.07
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -1.1 and -7.91
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.89 and -6.57
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -8.63 and -3.53
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_smallNegative
+INFO: Testing the add method with: -5.17 and -4.92
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_zero
+INFO: Testing the add method with 0 + 0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8906.14 and 35.28
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8634.12 and 7394.99
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9960.38 and 3872.08
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8426.24 and 7353.64
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2670.7 and 7095.35
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8913.03 and 1574.77
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 5074.63 and 1.01
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 832.23 and 81.74
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1096.46 and 9533.69
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7680.52 and 3607.23
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6059.72 and 4458.66
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8205.48 and 8951.67
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6368.33 and 9842.79
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7524.83 and 6274.9
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 918.77 and 5069.69
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6921.04 and 6007.8
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 292.45 and 5678.72
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4126.69 and 3667.09
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7325.69 and 6944.38
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1746.1 and 8013.95
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9266.65 and 6302.06
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1351.55 and 1718.25
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7401.86 and 2478.24
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4747.11 and 3973.33
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4771.64 and 1497.44
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1911.09 and 1351.87
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6392.47 and 3615.37
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7207.78 and 6601.61
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9265.6 and 667.1
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1602.14 and 5050.46
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1375.1 and 320.99
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8815.8 and 4823.68
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9864.97 and 2293.68
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7630.61 and 171.56
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8633.48 and 1708.3
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 875.94 and 6864.15
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4694.48 and 6467.54
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4028.32 and 4830.38
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 829.3 and 8765.16
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2807.57 and 6002.11
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9288.84 and 5674.04
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9670.55 and 4669.25
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7604.7 and 125.74
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 3684.23 and 3560.42
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2929.27 and 1535.99
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6902.12 and 1334.27
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 5748.46 and 4832.6
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 3073.14 and 6199.72
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7297.51 and 7706.58
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1279.8 and 5979.3
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7558.5 and 8534.36
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7932.43 and 7087.6
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2330.12 and 1608.23
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 5438.85 and 3617.92
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8533.68 and 2064.44
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4823.98 and 3013.24
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6655.89 and 212.44
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2591.5 and 6643.29
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8027.62 and 3845.99
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9199.55 and 2017.77
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2499.28 and 7556.21
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7665.29 and 8336.54
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8997.32 and 68.53
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6018.12 and 8610.64
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7432.49 and 4190.16
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6588.86 and 9683.83
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 5479.54 and 9081.41
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8452.28 and 6142.47
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7859.25 and 1253.77
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6733.25 and 5322.42
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8927.54 and 8949.62
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 3941.27 and 8404.49
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1612.81 and 4372.92
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4016.35 and 6936.15
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7041.19 and 9617.01
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9348.8 and 5025.01
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9551.29 and 5075.28
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4678.4 and 4920.48
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1223.14 and 3622.47
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9483.21 and 7733.21
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8532.95 and 9918.52
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2236.26 and 1637.56
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1293.89 and 1814.23
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 5737.86 and 7060.55
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 654.26 and 27.04
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2624.44 and 2081.56
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8598.65 and 3007.66
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4109.6 and 1550.08
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6133.64 and 6232.19
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 3030.47 and 274.6
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1138.64 and 9031.85
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4353.12 and 4044.05
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9723.67 and 7511.51
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2432.6 and 2213.57
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6859.84 and 9110.31
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4528.95 and 2120.06
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 3034.47 and 2922.22
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4347.6 and 8688.17
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 3731.79 and 21.07
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7702.94 and 2246.04
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7651.21 and 9724.3
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4796.38 and 3790.46
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7749.45 and 981.54
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 55.07 and 9724.48
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6428.5 and 2888.42
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 995.44 and 7436.3
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2490.86 and 4703.38
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2155.36 and 8996.14
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2844.43 and 3684.09
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8781.68 and 2718.92
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6363.29 and 8562.76
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7664.69 and 1373.49
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 797.16 and 7543.35
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9278.73 and 1414.9
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6170.89 and 2331.28
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6218.41 and 9774.44
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9726.8 and 3895.22
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7812.22 and 3463.02
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8136.57 and 1412.82
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9750.46 and 2526.31
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2445.46 and 3166.38
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 582.21 and 8736.16
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 10.87 and 7031.8
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4015.83 and 810.71
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 5558.15 and 8643.2
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7100.24 and 1926.57
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 400.7 and 7317.9
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9569.28 and 6819.35
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4857.56 and 3390.6
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8899.02 and 3864.9
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 3950.7 and 5732.84
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8957.95 and 2191.35
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 575.28 and 4922.98
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7522.55 and 5093.28
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 3510.2 and 5784.26
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9385.88 and 8802.1
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9872.54 and 2822.48
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7304.36 and 12.65
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2918.29 and 3472.27
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2608.01 and 6474.23
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6453.0 and 7000.04
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 941.89 and 2424.84
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6540.12 and 1413.78
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6311.77 and 4680.82
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9680.64 and 6794.37
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8374.54 and 5789.56
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4187.06 and 1089.96
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 3743.74 and 7811.28
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8085.44 and 3604.33
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1973.57 and 4016.68
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2553.6 and 2162.33
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 839.49 and 6070.12
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4639.66 and 2249.85
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 3551.26 and 1114.14
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6803.76 and 302.47
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2614.23 and 6578.98
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 3687.63 and 8756.94
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1197.48 and 511.66
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8439.88 and 7480.96
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 3072.14 and 1752.25
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1911.75 and 4761.81
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6451.26 and 7380.8
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8086.55 and 1160.68
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 5392.18 and 4516.52
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8217.52 and 1229.68
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4815.33 and 9771.46
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4322.53 and 1339.86
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1648.24 and 2444.26
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 9920.55 and 6683.42
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 5121.27 and 6885.22
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2193.44 and 6890.16
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 3821.38 and 5371.94
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 5118.15 and 7637.41
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 5753.29 and 5305.89
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7538.05 and 5135.15
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 361.95 and 3573.0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 3628.54 and 1431.9
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8238.25 and 6507.47
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 5760.99 and 1114.39
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 5059.57 and 6055.93
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1380.24 and 4163.2
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1209.88 and 1459.93
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6184.72 and 5478.55
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7478.52 and 1057.82
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 5634.77 and 8905.03
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 254.97 and 653.04
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 5613.41 and 2460.78
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6716.6 and 3303.57
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 925.08 and 1916.28
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1649.23 and 358.64
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7241.86 and 1869.74
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2745.11 and 5101.25
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 8092.92 and 7030.57
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 490.89 and 8451.6
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 3541.87 and 1549.47
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 2087.85 and 843.79
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 1307.68 and 922.86
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 6239.55 and 5609.83
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 4259.29 and 9251.61
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largePositive
+INFO: Testing the add method with: 7096.9 and 6987.34
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -5723.52 and -7821.34
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -2991.8 and -4638.1
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7327.39 and -6622.82
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -2359.56 and -5290.81
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4618.13 and -3029.11
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4089.49 and -4431.84
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3342.29 and -1533.48
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -8348.65 and -8714.9
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -5196.98 and -4564.84
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7103.53 and -881.12
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6585.88 and -4157.01
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4622.05 and -4597.88
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -5999.82 and -8129.8
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1934.85 and -585.7
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4131.16 and -1778.3
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -658.86 and -3393.93
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -2872.18 and -5373.41
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3783.71 and -3898.67
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4201.12 and -2395.79
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1030.92 and -8621.95
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7625.66 and -3357.08
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4218.58 and -3308.92
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -5332.19 and -5306.25
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3698.46 and -4850.37
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7479.93 and -7675.86
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -380.27 and -2600.55
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6182.88 and -991.8
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9116.99 and -7415.93
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -5638.29 and -6151.98
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -8298.1 and -4328.25
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7589.01 and -8473.5
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7381.77 and -2665.55
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -5848.09 and -2514.39
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -8794.51 and -5647.95
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -967.31 and -795.33
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3136.76 and -10.28
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6297.8 and -1978.23
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6954.75 and -5041.41
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9668.79 and -1802.77
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -474.19 and -9580.58
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -702.14 and -3138.56
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -8638.17 and -4974.25
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -2383.5 and -9880.0
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -2551.75 and -1771.68
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6926.88 and -3092.04
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7.79 and -8026.15
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -198.32 and -6809.78
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3153.56 and -7468.41
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6004.89 and -5200.98
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -8554.5 and -6532.41
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1409.16 and -2420.05
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9921.85 and -238.31
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6894.99 and -1413.55
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6592.64 and -8275.97
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -689.3 and -8181.35
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1485.56 and -4282.29
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4835.16 and -3554.42
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -703.45 and -3268.88
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1715.38 and -5419.12
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3212.76 and -4431.68
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3641.63 and -499.74
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3102.96 and -9162.29
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4852.55 and -6304.93
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -8813.16 and -6980.95
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4805.56 and -650.6
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3410.89 and -5324.11
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4000.42 and -8290.66
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7517.49 and -2645.01
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -8738.63 and -1619.01
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1797.04 and -8123.26
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9201.35 and -5149.82
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9060.17 and -5430.23
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6019.38 and -1540.48
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6981.92 and -2459.65
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4112.57 and -289.89
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1191.92 and -3708.21
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -8991.58 and -8927.23
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -5068.0 and -7079.07
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9943.85 and -499.89
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6948.81 and -2281.35
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6566.47 and -476.14
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7678.22 and -3711.72
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9962.09 and -797.25
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1404.39 and -6729.37
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7580.21 and -8745.41
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -378.29 and -2573.89
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1164.54 and -3537.84
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -131.37 and -3825.68
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -558.22 and -4114.18
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4859.44 and -9271.43
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -2222.17 and -7453.53
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4099.45 and -4312.85
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -237.94 and -7938.89
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -858.05 and -644.35
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9294.73 and -4781.07
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -8235.93 and -6826.09
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3701.59 and -6320.75
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6288.74 and -9591.51
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3819.03 and -7146.5
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3375.53 and -4253.91
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1470.44 and -6398.13
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6567.67 and -1414.51
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -8872.16 and -3369.11
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3826.13 and -6324.92
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1412.22 and -9578.08
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6602.27 and -6719.67
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3210.98 and -4849.05
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -5276.82 and -4709.94
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -5813.23 and -8621.03
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1424.36 and -8417.51
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4589.65 and -6702.56
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -275.03 and -9428.41
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4466.59 and -7992.61
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3942.82 and -2858.41
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6456.63 and -5309.01
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -999.1 and -7848.19
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9128.41 and -9396.85
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -792.77 and -7643.73
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4632.79 and -5433.67
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1552.99 and -67.79
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7193.23 and -6904.65
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9757.47 and -1151.49
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3072.12 and -2590.44
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4509.65 and -6970.14
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4940.4 and -8591.66
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4739.72 and -1315.47
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -306.71 and -8808.42
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -8929.62 and -9736.87
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3203.01 and -4099.65
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6759.31 and -3696.96
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -677.42 and -2466.53
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9581.33 and -2112.34
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -810.74 and -35.37
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1952.93 and -1388.24
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6951.93 and -5360.17
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9589.87 and -9206.21
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3658.49 and -7621.01
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -53.28 and -1786.67
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3431.68 and -2664.02
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1240.56 and -9123.91
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9752.0 and -9510.3
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9323.85 and -7778.65
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1149.24 and -3954.94
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -2164.05 and -6213.85
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3082.35 and -5184.38
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6425.95 and -3372.41
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9257.71 and -5959.24
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6629.46 and -7220.54
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1680.69 and -6841.35
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -2194.56 and -6318.74
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9213.68 and -188.13
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4172.04 and -4132.64
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7704.83 and -193.71
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6799.53 and -2758.64
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -855.38 and -1125.65
+okt 07, 2016 4:20:17 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -282.07 and -15.05
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9909.29 and -7087.7
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -268.73 and -1437.04
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1977.5 and -3132.93
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6381.45 and -6614.06
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1350.28 and -9358.61
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6849.76 and -7521.67
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -5504.26 and -6733.0
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -8814.56 and -5024.58
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7677.3 and -5836.07
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4186.6 and -8566.01
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -862.34 and -7440.18
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9079.96 and -3208.66
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3862.77 and -6913.5
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -788.02 and -7655.53
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -8655.18 and -2798.02
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -29.53 and -6654.22
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -9721.39 and -3595.61
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7764.08 and -1276.2
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -240.27 and -5789.93
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -5261.59 and -963.06
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7070.73 and -438.21
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3307.42 and -1944.34
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -6310.92 and -5286.64
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1434.44 and -7657.34
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3884.58 and -4294.23
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -895.87 and -8136.89
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1084.09 and -6694.37
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -5727.17 and -6993.46
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3290.69 and -3280.11
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4692.93 and -6561.19
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1195.94 and -8467.89
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -3173.97 and -4072.41
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7764.46 and -2876.59
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -8122.67 and -4303.28
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -906.52 and -2652.54
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1098.77 and -7035.78
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -1370.05 and -8577.92
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4095.66 and -893.74
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7715.21 and -119.2
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -376.57 and -8636.34
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -5400.58 and -7003.65
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -7862.45 and -2830.32
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -4988.59 and -3656.4
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_largeNegative
+INFO: Testing the add method with: -5748.22 and -4972.33
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 71.13 and 90.98
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 96.14 and 6.56
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 51.54 and 89.98
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 58.12 and 95.06
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 18.23 and 90.14
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 69.98 and 32.88
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 19.43 and 57.96
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 60.54 and 13.75
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 87.92 and 41.76
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 73.7 and 51.29
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 39.31 and 28.55
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 16.7 and 55.1
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 75.74 and 37.4
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 44.91 and 54.36
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 78.16 and 70.79
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 9.95 and 94.16
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 92.58 and 43.76
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 52.85 and 72.71
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 28.61 and 24.22
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 19.91 and 97.12
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 92.41 and 47.28
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 15.37 and 9.61
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 70.21 and 11.56
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 81.89 and 76.97
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 63.63 and 25.9
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 17.72 and 41.49
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 53.27 and 51.32
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 97.56 and 3.47
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 33.31 and 74.9
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 63.16 and 42.58
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 16.7 and 59.8
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 89.28 and 88.16
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 57.62 and 38.75
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 10.53 and 16.84
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 76.02 and 57.1
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 15.93 and 90.29
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 97.77 and 26.01
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 78.85 and 45.36
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 42.95 and 16.31
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 92.57 and 14.1
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 4.89 and 9.1
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 24.02 and 82.56
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 62.92 and 20.66
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 81.68 and 93.32
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 62.96 and 36.0
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 17.68 and 59.23
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 81.84 and 17.78
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 48.42 and 83.63
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 63.49 and 5.82
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 83.38 and 75.7
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 78.35 and 85.74
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 97.66 and 8.64
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 10.72 and 85.13
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 70.0 and 93.36
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 23.05 and 50.22
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 35.2 and 30.2
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 81.36 and 67.09
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 67.66 and 57.72
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 50.85 and 17.3
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 20.77 and 38.7
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 87.51 and 0.23
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 96.08 and 11.08
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 57.91 and 11.27
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 5.57 and 84.06
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 16.68 and 38.95
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 20.55 and 78.31
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 59.49 and 32.0
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 71.65 and 93.19
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 47.69 and 92.6
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 75.48 and 33.62
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 69.93 and 71.25
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 15.95 and 44.5
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 66.38 and 75.14
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 0.72 and 81.74
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 91.14 and 52.42
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 46.44 and 95.22
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 29.83 and 82.32
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 20.73 and 11.6
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 21.09 and 83.12
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 82.97 and 82.29
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 52.97 and 48.33
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 21.51 and 5.8
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 18.27 and 35.17
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 80.43 and 42.4
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 16.42 and 58.87
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 5.62 and 13.96
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 83.84 and 91.23
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 16.81 and 22.04
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 19.43 and 22.62
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 30.13 and 23.31
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 47.53 and 22.82
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 13.66 and 73.08
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 26.61 and 28.03
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 57.81 and 84.54
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 68.74 and 88.89
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 81.61 and 54.76
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 82.43 and 37.4
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 76.34 and 76.26
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 89.08 and 69.63
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 8.51 and 87.67
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 92.24 and 95.19
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 65.99 and 16.21
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 97.85 and 74.79
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 32.72 and 30.45
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 93.66 and 52.54
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 20.49 and 52.42
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 96.52 and 91.13
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 69.21 and 75.0
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 67.11 and 34.92
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 51.43 and 92.57
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 73.82 and 58.26
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 80.96 and 80.75
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 59.44 and 4.88
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 31.11 and 54.65
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 27.58 and 87.54
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 13.32 and 93.82
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 19.33 and 96.89
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 54.0 and 47.26
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 94.68 and 63.3
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 33.83 and 21.71
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 68.44 and 26.1
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 21.89 and 12.68
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 75.54 and 90.97
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 45.15 and 59.28
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 56.99 and 98.15
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 82.69 and 90.85
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 64.31 and 81.5
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 63.65 and 86.6
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 77.71 and 71.84
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 78.16 and 87.59
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 21.27 and 86.52
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 81.16 and 84.58
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 36.97 and 51.68
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 80.48 and 55.22
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 48.63 and 23.76
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 52.67 and 38.84
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 6.83 and 12.24
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 22.77 and 18.71
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 56.09 and 57.12
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 77.27 and 27.7
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 7.0 and 81.31
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 53.77 and 5.67
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 27.54 and 20.85
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 65.17 and 14.95
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 90.31 and 33.74
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 71.48 and 63.28
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 25.2 and 2.3
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 8.17 and 93.09
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 30.85 and 72.97
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 16.22 and 70.48
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 92.46 and 22.76
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 96.4 and 47.66
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 38.16 and 2.21
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 27.75 and 78.51
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 41.91 and 80.7
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 48.55 and 38.6
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 46.81 and 12.21
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 97.0 and 38.09
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 39.66 and 46.97
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 48.61 and 19.0
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 54.69 and 37.48
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 67.03 and 96.36
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 22.55 and 26.44
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 6.29 and 37.35
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 9.3 and 58.15
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 63.61 and 71.88
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 9.27 and 25.4
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 83.96 and 93.55
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 65.49 and 49.1
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 60.44 and 40.81
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 92.06 and 89.34
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 57.61 and 44.8
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 63.75 and 3.65
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 8.98 and 92.51
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 19.98 and 0.37
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 4.36 and 81.73
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 2.67 and 83.48
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 88.02 and 37.75
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 10.33 and 48.95
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 34.18 and 20.76
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 4.6 and 71.9
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 53.19 and 77.8
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 49.44 and 19.2
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 8.34 and 83.16
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 98.18 and 32.38
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 91.28 and 67.43
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 69.15 and 52.38
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 12.18 and 56.63
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 66.59 and 99.27
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 9.58 and 30.28
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 10.38 and 77.82
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 74.8 and 60.13
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 35.49 and 52.68
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 15.33 and 9.51
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 10.0 and 26.01
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 53.25 and 57.57
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 99.21 and 54.51
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 65.26 and 62.24
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 72.45 and 63.04
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumPositive
+INFO: Testing the add method with: 23.74 and 91.13
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -43.64 and -75.57
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -99.68 and -2.17
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -41.41 and -84.21
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -55.3 and -43.03
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -90.86 and -4.12
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -89.65 and -45.23
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -37.38 and -49.1
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -38.3 and -63.97
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -12.17 and -89.11
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -28.38 and -49.54
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -83.59 and -96.99
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -99.62 and -9.66
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -22.15 and -68.72
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -78.49 and -68.44
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -51.86 and -91.42
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -29.75 and -19.93
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -23.36 and -97.32
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -54.99 and -33.5
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -98.2 and -21.2
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -94.49 and -92.83
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -77.54 and -73.91
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -15.73 and -40.72
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -43.81 and -55.13
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -39.43 and -57.9
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -8.76 and -54.89
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -62.43 and -25.47
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -78.22 and -35.17
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -85.64 and -8.01
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -49.86 and -40.58
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -44.78 and -46.98
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -58.17 and -60.0
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -71.72 and -72.81
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -68.54 and -50.11
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -85.39 and -27.85
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -1.15 and -35.98
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -22.15 and -42.15
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -34.36 and -23.91
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -67.96 and -19.58
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -97.49 and -97.42
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -47.23 and -72.45
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -13.04 and -18.48
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -56.39 and -89.51
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -89.73 and -23.1
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -4.5 and -34.51
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -99.37 and -82.69
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -37.33 and -50.12
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -93.08 and -1.03
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -76.85 and -85.7
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -25.03 and -30.21
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -3.79 and -76.28
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -55.97 and -18.4
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -47.24 and -74.95
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -2.67 and -47.44
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -22.4 and -81.18
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -84.3 and -78.61
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -75.35 and -13.51
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -92.62 and -1.47
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -51.81 and -46.59
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -78.35 and -72.45
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -5.97 and -69.93
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -3.48 and -37.38
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -4.92 and -28.27
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -56.14 and -55.27
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -64.41 and -72.29
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -62.95 and -79.55
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -72.47 and -82.1
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -62.14 and -7.16
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -18.88 and -25.96
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -20.27 and -76.19
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -50.5 and -81.76
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -84.95 and -78.05
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -15.05 and -80.03
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -66.54 and -51.78
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -39.46 and -23.5
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -33.08 and -44.76
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -12.67 and -0.73
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -84.22 and -56.66
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -7.25 and -38.94
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -42.38 and -31.79
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -79.58 and -34.89
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -62.33 and -28.36
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -34.04 and -61.33
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -14.13 and -73.08
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -22.95 and -71.77
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -38.34 and -4.11
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -81.34 and -16.17
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -7.53 and -16.33
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -62.99 and -36.41
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -53.45 and -48.9
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -52.8 and -31.87
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -35.46 and -97.2
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -79.12 and -72.69
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -32.34 and -88.66
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -39.56 and -91.03
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -37.31 and -35.06
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -83.75 and -99.32
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -23.72 and -62.89
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -67.44 and -68.19
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -27.71 and -27.4
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -3.66 and -46.99
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -63.24 and -36.34
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -88.8 and -24.65
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -45.0 and -44.81
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -74.12 and -9.86
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -44.76 and -33.99
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -86.46 and -56.15
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -48.32 and -53.43
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -75.86 and -69.51
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -11.61 and -89.02
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -82.44 and -14.03
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -37.0 and -16.99
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -69.86 and -74.76
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -3.91 and -18.06
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -68.85 and -45.61
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -91.22 and -55.13
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -10.12 and -85.34
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -23.52 and -63.16
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -3.8 and -24.52
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -57.77 and -60.2
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -39.46 and -12.74
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -2.75 and -65.13
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -39.66 and -66.61
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -29.57 and -99.37
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -98.5 and -16.43
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -88.26 and -57.39
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -76.44 and -52.28
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -93.03 and -54.0
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -2.74 and -38.61
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -76.46 and -95.12
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -57.65 and -0.7
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -41.83 and -73.29
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -67.95 and -85.73
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -61.72 and -58.91
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -51.49 and -66.93
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -81.13 and -44.12
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -88.97 and -89.95
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -83.73 and -97.44
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -84.71 and -57.32
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -70.95 and -3.97
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -1.81 and -8.85
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -85.4 and -98.76
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -21.86 and -84.18
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -82.57 and -49.01
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -84.41 and -46.37
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -17.47 and -4.38
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -7.41 and -5.24
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -66.8 and -14.25
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -75.86 and -3.43
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -51.31 and -5.87
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -13.47 and -18.61
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -57.85 and -27.62
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -19.35 and -91.3
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -86.2 and -88.31
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -60.42 and -9.13
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -61.81 and -65.07
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -58.81 and -65.93
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -62.36 and -9.96
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -3.39 and -66.48
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -3.37 and -58.59
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -44.48 and -66.46
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -16.13 and -32.81
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -1.84 and -21.16
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -29.77 and -34.01
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -27.21 and -66.15
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -38.59 and -43.26
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -14.97 and -68.63
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -95.66 and -80.74
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -46.89 and -68.82
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -23.97 and -27.51
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -90.59 and -77.68
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -77.88 and -80.18
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -44.85 and -9.2
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -19.1 and -91.06
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -39.87 and -3.47
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -93.76 and -44.9
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -55.4 and -40.15
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -10.4 and -36.8
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -15.69 and -51.05
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -22.0 and -45.5
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -56.6 and -15.16
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -9.57 and -41.11
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -37.1 and -60.07
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -49.78 and -27.07
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -85.33 and -99.2
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -24.32 and -92.42
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -27.47 and -6.39
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -95.05 and -42.24
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -46.69 and -66.21
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -25.63 and -81.79
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -58.96 and -41.24
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -77.72 and -52.84
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -72.84 and -66.37
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -47.68 and -59.77
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -20.8 and -13.63
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -38.68 and -76.92
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -11.46 and -71.41
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -81.84 and -99.19
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -54.01 and -46.82
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -30.43 and -83.29
+okt 07, 2016 4:20:18 EM CalculatorTest testAdd_mediumNegative
+INFO: Testing the add method with: -48.62 and -31.08
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.567 sec
+
+Results :
+
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 1.699s
+[INFO] Finished at: Fri Oct 07 16:20:18 CEST 2016
+[INFO] Final Memory: 6M/15M
+[INFO] ------------------------------------------------------------------------
