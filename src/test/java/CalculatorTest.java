@@ -305,7 +305,7 @@ public class CalculatorTest {
 		}	
 	}
 
-	@Test
+	@Test 
 	public void testDivide_smallPositive() {
 		double rand1 = 0;
 		double rand2 = 0;
@@ -316,7 +316,8 @@ public class CalculatorTest {
 			rand2 = Math.round(random.nextDouble() * 1000)/100.00;
 			expected = rand1 / rand2;
 			LOG.info("Testing the divide method with: " + rand1 + " and " + rand2);
-			assertEquals(expected, calc.divide(rand1, rand2), 0.01);
+			if (rand2 != 0)
+				assertEquals(expected, calc.divide(rand1, rand2), 0.01);
 		}	
 	}
 
@@ -331,11 +332,12 @@ public class CalculatorTest {
 			rand2 = Math.round(random.nextDouble() * 10000)/100.00;
 			expected = rand1 / rand2;
 			LOG.info("Testing the divide method with: " + rand1 + " and " + rand2);
-			assertEquals(expected, calc.divide(rand1, rand2), 0.01);
+			if (rand2 != 0)
+				assertEquals(expected, calc.divide(rand1, rand2), 0.01);
 		}	
 	}
 
-	@Test
+	@Test 
 	public void testDivide_largePositive() {
 		double rand1 = 0;
 		double rand2 = 0;
@@ -346,18 +348,19 @@ public class CalculatorTest {
 			rand2 = Math.round(random.nextDouble() * 1000000)/100.00;
 			expected = rand1 / rand2;
 			LOG.info("Testing the divide method with: " + rand1 + " and " + rand2);
-			assertEquals(expected, calc.divide(rand1, rand2), 0.01);
+			if (rand2 != 0)
+				assertEquals(expected, calc.divide(rand1, rand2), 0.01);
 		}	
 	}
 
-/*	@Test
+	@Test (expected = java.lang.ArithmeticException.class)
 	public void testDivide_zero() {
 		double expected = 0;
 		LOG.info("Testing the subtract method with 0 / 0");
 		assertEquals(expected, calc.divide(0, 0), 0.01);
-	}*/
+	}
 
-	@Test
+	@Test 
 	public void testDivide_smallNegative() {
 		double rand1 = 0;
 		double rand2 = 0;
@@ -368,7 +371,8 @@ public class CalculatorTest {
 			rand2 = Math.round(random.nextDouble() * -1000)/100.00;
 			expected = rand1 / rand2;
 			LOG.info("Testing the divide method with: " + rand1 + " and " + rand2);
-			assertEquals(expected, calc.divide(rand1, rand2), 0.01);
+			if (rand2 != 0)
+				assertEquals(expected, calc.divide(rand1, rand2), 0.01);
 		}	
 	}
 
@@ -383,11 +387,12 @@ public class CalculatorTest {
 			rand2 = Math.round(random.nextDouble() * -10000)/100.00;
 			expected = rand1 / rand2;
 			LOG.info("Testing the divide method with: " + rand1 + " and " + rand2);
-			assertEquals(expected, calc.divide(rand1, rand2), 0.01);
+			if (rand2 != 0)
+				assertEquals(expected, calc.divide(rand1, rand2), 0.01);
 		}	
 	}
 
-	@Test
+	@Test 
 	public void testDivide_largeNegative() {
 		double rand1 = 0;
 		double rand2 = 0;
@@ -398,7 +403,8 @@ public class CalculatorTest {
 			rand2 = Math.round(random.nextDouble() * -1000000)/100.00;
 			expected = rand1 / rand2;
 			LOG.info("Testing the divide method with: " + rand1 + " and " + rand2);
-			assertEquals(expected, calc.divide(rand1, rand2), 0.01);
+			if (rand2 != 0)
+				assertEquals(expected, calc.divide(rand1, rand2), 0.01);
 		}	
 	}
 }

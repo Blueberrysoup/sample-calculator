@@ -53,6 +53,9 @@ public class Calculator {
 	 * @return: the result of the division.
 	 * */
 	public double divide(double firstNumber, double secondNumber){
+		if (secondNumber == 0)
+			throw new java.lang.ArithmeticException("Can't divide by zero!");
+		
 		return firstNumber/secondNumber;
 	}
 	
